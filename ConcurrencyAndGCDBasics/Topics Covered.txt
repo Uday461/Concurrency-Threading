@@ -1,0 +1,29 @@
+1. What is Concurrency ?
+2. Why Concurrency ?
+3. Concurrency vs Parallelism ?
+ - Time Slicing
+ - Context Switching
+ - Multi core CPUs
+4. How to achieve Concurrency ?
+ - MultiThreading (creating threads manually)
+ - MultiThreading (recommended way)
+   - GCD, Operation Queues, Task, Task Groups, Actors
+5. GCD
+6. Synchronous vs Asynchronous Operations
+7. Misconceptions between sync vs serial And async vs concurrent
+8. Queues
+ - Serial, Concurrent
+ - System Provided
+ - Custom
+9. Target Queue
+10. Dispatch Group
+11. Dispatch Work Item
+12. Dispatch Barrier
+13. Dispatch Semaphore
+14. Dispatch Sources
+15. Operation, Operation Queue
+16. Concurrency in Swift 5.6
+ - Task
+ - Task Group
+ - Actors
+ - Async Await
